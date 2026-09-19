@@ -1,0 +1,58 @@
+CHROME WEB STORE LISTING — copy-paste
+=====================================
+
+Name:        IRCTC Autofill by Karan
+Category:    Tools  (ya Travel)
+Language:    English (India) / Hindi
+
+Short description (132 characters max):
+Fill IRCTC booking forms in seconds: login, journey, passengers and BHIM/UPI. You complete captcha and payment yourself.
+
+Detailed description:
+IRCTC Autofill by Karan saves you typing time when you book train tickets on irctc.co.in.
+
+What it does:
+• Fills your IRCTC user ID and password in the login popup. You type the captcha, and Sign In is pressed for you.
+• Fills From/To stations, journey date, class and quota, then runs the search.
+• Finds your train, selects your class and availability, and presses Book Now at the time you set (for example 10:00 AC / 11:00 non-AC Tatkal).
+• Fills up to 6 passengers (name, age, gender, berth, food), mobile number and BHIM/UPI or card payment option.
+• Shows a small on-screen status and retries automatically after common IRCTC errors.
+
+What it does NOT do:
+• It does not solve or bypass CAPTCHA or OTP.
+• It does not make payments. You complete the payment yourself.
+• It does not send your data anywhere. Everything stays in your own browser.
+
+Privacy: No server, no tracking, no analytics. Data is stored only in Chrome's local storage on your computer.
+
+Disclaimer: This is an independent tool and is not affiliated with, endorsed by or connected to IRCTC or Indian Railways. Use it only for your own bookings and follow IRCTC's terms of use.
+
+
+PRIVACY PRACTICES TAB (dashboard mein ye bharna hai)
+----------------------------------------------------
+Single purpose:
+  "Autofill the user's own booking details into forms on irctc.co.in."
+
+Permission justification:
+  storage          -> "Saves the user's booking details locally so they can be filled into the form."
+  host permission  -> "Needed to fill forms on https://www.irctc.co.in only. No other site is accessed."
+
+Remote code:  No, I am not using remote code.
+
+Data usage — tick these:
+  [x] Personally identifiable information (name, age, mobile)
+  [x] Authentication information (IRCTC user ID and password)
+  Then certify:
+  [x] I do not sell or transfer user data to third parties
+  [x] I do not use or transfer user data for purposes unrelated to the single purpose
+  [x] I do not use or transfer user data to determine creditworthiness or for lending
+
+Privacy policy URL:
+  https://github.com/<your-username>/irctc-autofill/blob/main/PRIVACY.md
+
+
+SCREENSHOTS needed: at least 1, size 1280x800 or 640x400
+  1. Extension popup filled with sample (fake) details
+  2. IRCTC search page with the green "QuickFill" banner
+  (Use fake passenger names; don't show your real ID, PNR or phone number.)
+Small promo tile (optional): 440x280
